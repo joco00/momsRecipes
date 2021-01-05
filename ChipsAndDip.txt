@@ -2,4 +2,4 @@ Chips and Dip
 
 recipe:
 	chips
-	dips
+	dip
