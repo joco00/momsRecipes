@@ -1,5 +1,0 @@
-Chips and Dip
-
-recipe:
-	chips
-	dip
