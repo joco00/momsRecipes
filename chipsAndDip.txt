@@ -1,4 +1,0 @@
-name: Chips and Dip
-recipe:
-	1 chips
-	1 dips
